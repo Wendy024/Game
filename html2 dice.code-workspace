@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\html2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Game of pig"
+	}
+}
